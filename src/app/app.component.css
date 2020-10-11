@@ -1,0 +1,17 @@
+#start {
+  margin-left: 100px;
+  width: 280px;
+  height: 55px;
+  background-color: lightslategray;
+  padding-top: 9px;
+  margin-bottom: 5px;
+}
+#even {
+  width: 200px;
+}
+
+#odd {
+  width: 150px;
+  margin-left: 20px;
+  margin-left: 100px;
+}
